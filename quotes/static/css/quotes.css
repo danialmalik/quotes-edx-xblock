@@ -1,0 +1,9 @@
+/* CSS for QuotesXBlock */
+
+.quotes_block .count {
+    font-weight: bold;
+}
+
+.quotes_block input {
+    cursor: pointer;
+}
